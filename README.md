@@ -1,39 +1,7 @@
 <p align="center">
-  <b>DevOps | Full-Stack (MERN + Next.js) Developer | AWS & CI/CD Enthusiast</b>
+  <h1>DevOps | Full-Stack (MERN + Next.js) Developer | AWS & CI/CD Enthusiast</h1>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/<your-github-username>/<repo-name>?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/<your-github-username>/<repo-name>?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/<your-github-username>/<repo-name>?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/<your-github-username>/<repo-name>?style=for-the-badge" />
-</p>
-
 ---
-
-## 📋 Table of Contents
-- [📖 About the Project](#-about-the-project)
-- [⚙️ Tech Stack](#️-tech-stack)
-- [✨ Features](#-features)
-- [🧩 Installation](#-installation)
-- [🚀 Deployment](#-deployment)
-- [📸 Screenshots](#-screenshots)
-- [🧑‍💻 About Me](#-about-me)
-- [🎯 Career Goal](#-career-goal)
-- [📫 Contact](#-contact)
-- [🤝 Contribution](#-contribution)
-- [📄 License](#-license)
-
----
-
-## 📖 About the Project
-> _Write a brief summary of what your project does, its purpose, and how it solves a real-world problem._
-
-Example:
-> This project is a cloud-native web application built using the MERN stack with CI/CD pipelines on AWS. It allows users to perform [main feature], ensuring scalability, automation, and high performance using DevOps principles.
-
----
-
 ## ⚙️ Tech Stack
 
 ### 💻 Frontend:
@@ -68,24 +36,3 @@ Example:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## ✨ Features
-- 🔐 User authentication & authorization  
-- ⚙️ CRUD operations with MongoDB  
-- 🔄 Automated CI/CD pipeline using Jenkins & GitHub Actions  
-- ☁️ Cloud deployment on AWS EC2/EKS  
-- 📊 Real-time monitoring via AWS CloudWatch  
-- 🐳 Containerization with Docker  
-- 🧩 Scalable microservices architecture  
-
----
-
-## 🧩 Installation
-
-### 🛠️ Steps:
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-github-username>/<repo-name>.git
