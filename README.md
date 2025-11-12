@@ -1,8 +1,3 @@
-<!-- ----------------------------------------------------- -->
-<!-- 🌟 Hrithik Suthari | Professional GitHub README.md   -->
-<!-- ----------------------------------------------------- -->
-
-<h1 align="center">🚀 [Your Project Name]</h1>
 <p align="center">
   <b>DevOps | Full-Stack (MERN + Next.js) Developer | AWS & CI/CD Enthusiast</b>
 </p>
