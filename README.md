@@ -110,23 +110,6 @@ Project Management platform with Docker, Kubernetes, GitHub Actions, ArgoCD and 
 ### ⚡ Java Rate Limiter
 Implemented Token Bucket, Sliding Window, Fixed Window and Leaky Bucket algorithms with thread-safe request handling.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements
 
